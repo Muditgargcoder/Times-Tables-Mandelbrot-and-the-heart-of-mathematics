@@ -3,7 +3,7 @@
 Animation of patterns founded by mathematician Simon Plouffe using Java.
 Check the Java code for animation
 
-![](https://github.com/Muditgargcoder/Times-Tables-Mandelbrot-and-the-heart-of-mathematics/blob/master/Hnet-image%20(1).gif)
+[![](https://github.com/Muditgargcoder/Times-Tables-Mandelbrot-and-the-heart-of-mathematics/blob/master/Hnet-image%20(1).gif)](https://www.youtube.com/watch?v=-3zdjFj4AQU&feature=youtu.be)
 
 Watch the full Animation here:
 https://www.youtube.com/watch?v=-3zdjFj4AQU&feature=youtu.be
